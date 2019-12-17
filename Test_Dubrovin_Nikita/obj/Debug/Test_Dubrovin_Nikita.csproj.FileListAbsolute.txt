@@ -1,0 +1,13 @@
+D:\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\obj\Debug\Test_Dubrovin_Nikita.csprojAssemblyReference.cache
+D:\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\obj\Debug\Test_Dubrovin_Nikita.Form2.resources
+D:\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\obj\Debug\Test_Dubrovin_Nikita.SignIN.resources
+D:\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\obj\Debug\Test_Dubrovin_Nikita.SignUP.resources
+D:\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\obj\Debug\Test_Dubrovin_Nikita.Properties.Resources.resources
+D:\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\obj\Debug\Test_Dubrovin_Nikita.csproj.GenerateResource.cache
+D:\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\obj\Debug\Test_Dubrovin_Nikita.csproj.CoreCompileInputs.cache
+D:\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\bin\Debug\Test_Dubrovin_Nikita.exe.config
+D:\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\bin\Debug\Test_Dubrovin_Nikita.exe
+D:\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\bin\Debug\Test_Dubrovin_Nikita.pdb
+D:\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\obj\Debug\Test_Dubrovin_Nikita.exe
+D:\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\obj\Debug\Test_Dubrovin_Nikita.pdb
+D:\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\Test_Dubrovin_Nikita\obj\Debug\Test_Dubrovin_Nikita.Form3.resources
